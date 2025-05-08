@@ -3,17 +3,22 @@
 
 O objetivo deste projeto é realizar uma análise exploratória e comparativa dos custos envolvidos na educação internacional, utilizando o dataset Cost of International Education. Através dessa análise, busca-se identificar padrões, tendências e variações nos custos de mensalidade, moradia, visto, seguro e despesas gerais em diferentes países, cidades e instituições de ensino ao redor do mundo.
 <br>
+<br>
 A proposta é gerar insights úteis para estudantes internacionais, consultores educacionais e pesquisadores, com foco em comparar acessibilidade, custo-benefício e fatores financeiros determinantes na escolha de destinos de estudo. Ao final, serão apresentadas visualizações e recomendações baseadas em dados, com potencial para serem incorporadas em dashboards ou relatórios interativos.
 
-- Perguntas que tentaremos responder com a análise:
+<b>- Perguntas que tentaremos responder com a análise:</b>
 
-1. Quais cidades têm um alto custo de vida, mas surpreendem com programas mais baratos?
 
-2. Quais cidades oferecem programas mais caros mesmo com um custo de vida relativamente baixo?
+<b>1. Quais cidades têm um alto custo de vida, mas surpreendem com programas mais baratos?</b>
 
-3. Há um padrão claro entre custo de vida e o custo total do programa?
 
-4. Algum país concentra cidades com custo-benefício mais vantajoso?
+<b>2. Quais cidades oferecem programas mais caros mesmo com um custo de vida relativamente baixo?</b>
+
+
+<b>3. Há um padrão claro entre custo de vida e o custo total do programa?</b>
+
+
+<b>4. Algum país concentra cidades com custo-benefício mais vantajoso?</b>
 
 ## Estrutura do Projeto
 
