@@ -62,7 +62,24 @@ Ou manualmente:
 
 # Conclusões: 
 
-- A maioria dos filmes está concentrada nas décadas de 1990 a 2010.
-- Filmes mais longos tendem a ter notas ligeiramente maiores, embora a correlação seja fraca.
-- A nota média dos filmes não varia muito com o ano de lançamento.
-- Filmes com mais de 200 minutos são minoria, sendo o mais longo "Fanny and Alexander" com 312 minutos.
+<b>- Existem cidades com custo de vida elevado, mas programas acessíveis.</b>
+<br>
+Apesar de parecerem caras para viver, algumas cidades surpreendem ao oferecer cursos completos por valores abaixo de US$30.000, mostrando que o custo de vida não é um indicador absoluto do valor total da graduação.
+
+<b>- Também há cidades baratas com programas extremamente caros.</b>
+<br>
+Algumas cidades com índice de custo de vida abaixo de 70 possuem programas educacionais que ultrapassam os US$50.000, alertando que economia no dia a dia pode ser anulada por mensalidades ou taxas altas.
+
+<b>- O custo de vida não tem correlação forte com o custo total do programa. </b>
+<br>
+Ao analisar graficamente os dois indicadores, nota-se que não há um padrão fixo. Existe uma grande variação entre cidades e países, o que reforça a importância de analisar ambos separadamente.
+
+<b>- Alguns países concentram cidades com ótimo custo-benefício. </b>
+<br>
+Países como Bulgaria, Iran, Morocco e India se destacam por reunirem várias cidades onde o custo de vida e o valor total do curso são equilibrados, oferecendo uma excelente oportunidade para estudantes internacionais.
+
+<b> - Cidades alternativas devem ser consideradas na escolha de onde estudar. </b>
+<br>
+Cidades menos óbvias podem oferecer a mesma qualidade de ensino com custos totais muito mais baixos. Essas descobertas ajudam estudantes a tomarem decisões mais econômicas e estratégicas.
+
+<b> - A Segurança deve ser priorizada na sua escolha, não adianta o programa completo ter um ótimo custo-benefício e ser um péssimo lugar para estudantes de diferentes culturas. </b>
