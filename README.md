@@ -49,15 +49,26 @@ Ou manualmente:
 
 - Análise Exploratória (EDA - Exploratory Data Analysis):
 
+<b>- CUSTO MÉDIO POR PAÍS</b> <br>
+  ![image](https://github.com/user-attachments/assets/228b2da4-9f81-43ec-bb16-7acb93b1b195)
+
+
   
 
-1. Quais cidades têm um alto custo de vida, mas surpreendem com programas mais baratos? <br>![image](https://github.com/user-attachments/assets/0475cf2a-05cf-4279-91c3-b98d6b5bf871)
+1. Quais cidades têm um alto custo de vida, mas surpreendem com programas mais baratos? <br>![image](https://github.com/user-attachments/assets/202ae107-b286-4f5b-8496-43260fd2bfcb)
 
-2. Quais cidades oferecem programas mais caros mesmo com um custo de vida relativamente baixo?<br> ![image](https://github.com/user-attachments/assets/fba45754-dec3-4b77-b154-04a634e801e2)
 
-3. Há um padrão claro entre custo de vida e o custo total do programa?<br> ![image](https://github.com/user-attachments/assets/8efa8dda-2a64-48a8-86b8-5eefc98ab9c0)
+2. Quais cidades oferecem programas mais caros mesmo com um custo de vida relativamente baixo?<br> ![image](https://github.com/user-attachments/assets/4896a4e4-93ba-4051-b1da-6c3d929b72eb)
 
-4. Algum país concentra cidades com custo-benefício mais vantajoso?<br> ![image](https://github.com/user-attachments/assets/44c2b932-3af5-4f14-92df-ea6e7da08ed0)
+
+3. Quais cidades oferecem os melhores custo-benefício? <br>![image](https://github.com/user-attachments/assets/2879e759-43d7-403a-835f-efeddd7a6ecb)
+
+
+4. Há um padrão claro entre custo de vida e o custo total do programa?<br> ![image](https://github.com/user-attachments/assets/b6023d35-e311-4318-9345-f8ca6e1b0bc6)
+
+
+5. Algum país concentra cidades com custo-benefício mais vantajoso?<br> ![image](https://github.com/user-attachments/assets/779fc354-e980-4d48-bab0-6d9b25ec42ee)
+
 
 
 # Conclusões: 
