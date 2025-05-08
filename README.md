@@ -1,4 +1,3 @@
-# analise-custo-para-estudar-fora
 
 # Análise dos custos para estudar fora
 
